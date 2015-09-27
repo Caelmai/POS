@@ -1,0 +1,82 @@
+﻿@model Web.Models.ClientListModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div>
+    <div>
+        <label>Name:</label>
+        <input data-bind="value: clientFilter, valueUpdate: 'afterkeydown'" />
+    </div>
+    <div>
+        <label>City:</label>
+        <input data-bind="value: cityFilter, valueUpdate: 'afterkeydown'" />
+    </div>
+    <div>
+        <label>Region:</label>
+        <select data-bind="options: regions, value: regionsFilter"></select>
+    </div>
+    <div>
+        <label>Gender:</label>
+        <select data-bind="options: genders, value: gendersFilter"></select>
+    </div>
+    <div>
+        <label>Classification:</label>
+        <select data-bind="options: classifications, value: classificationFilter"></select>
+    </div>
+    @if(Model.ShowSeller)
+    {
+        <div>
+            <label>Seller:</label>
+            <select data-bind="options: sellers, value: sellersFilter"></select>
+        </div>
+    }
+    <div>
+        <button data-bind="click: clear">Clear Fields</button>
+    </div>
+</div>
+
+<table>
+    <thead>
+        <tr>
+            @*Classification, Name, Phone, Gender, City, Region, Last Purchase and Seller*@
+            <th>Classification</th>
+            <th>Name</th>
+            <th>Phone</th>
+            <th>Gender</th>
+            <th>City</th>
+            <th>Region</th>
+            <th>Last Purchase</th>
+            @if(Model.ShowSeller)
+            {
+                <th>Seller</th>
+            }
+        </tr>
+    </thead>
+    <tbody data-bind="foreach: FilteredData">
+        <tr>
+            <td data-bind="text: Classification"></td>
+            <td data-bind="text: Name"></td>
+            <td data-bind="text: Phone"></td>
+            <td data-bind="text: Gender"></td>
+            <td data-bind="text: City"></td>
+            <td data-bind="text: Region"></td>
+            <td data-bind="text: LastPurchase"></td>
+            @if(Model.ShowSeller)
+            {
+                <td data-bind="text: Seller"></td>
+            }
+        </tr>
+    </tbody>
+</table>
+
+
+@section scripts{
+    <script type="text/javascript">
+        var model = @Html.Raw(Json.Encode(Model));
+        
+    </script>
+    <script src="~/Scripts/PageScripts/ClientListModel.js"></script>
+}

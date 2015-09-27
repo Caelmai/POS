@@ -1,0 +1,5 @@
+D:\Projects\Solution\Solution\WebApp\ProjectUtils\bin\Debug\ProjectUtils.dll
+D:\Projects\Solution\Solution\WebApp\ProjectUtils\bin\Debug\ProjectUtils.pdb
+D:\Projects\Solution\Solution\WebApp\ProjectUtils\obj\Debug\ProjectUtils.csprojResolveAssemblyReference.cache
+D:\Projects\Solution\Solution\WebApp\ProjectUtils\obj\Debug\ProjectUtils.dll
+D:\Projects\Solution\Solution\WebApp\ProjectUtils\obj\Debug\ProjectUtils.pdb

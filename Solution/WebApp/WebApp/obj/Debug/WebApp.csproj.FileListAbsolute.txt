@@ -1,0 +1,15 @@
+C:\Users\Alan_Aguirre\Desktop\Stefanini - Prova Técnica\Solution\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Alan_Aguirre\Desktop\Stefanini - Prova Técnica\Solution\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Alan_Aguirre\Desktop\Stefanini - Prova Técnica\Solution\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Alan_Aguirre\Desktop\Stefanini - Prova Técnica\Solution\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Alan_Aguirre\Desktop\Stefanini - Prova Técnica\Solution\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Tests\Solution\WebApp\WebApp\bin\WebApp.dll
+C:\Tests\Solution\WebApp\WebApp\bin\WebApp.pdb
+C:\Tests\Solution\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Tests\Solution\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Tests\Solution\WebApp\WebApp\obj\Debug\WebApp.pdb
+D:\Projects\Solution\Solution\WebApp\WebApp\bin\WebApp.dll
+D:\Projects\Solution\Solution\WebApp\WebApp\bin\WebApp.pdb
+D:\Projects\Solution\Solution\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+D:\Projects\Solution\Solution\WebApp\WebApp\obj\Debug\WebApp.dll
+D:\Projects\Solution\Solution\WebApp\WebApp\obj\Debug\WebApp.pdb

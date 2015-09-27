@@ -1,0 +1,10 @@
+D:\Projects\Solution\Solution\WebApp\DBTest\bin\Debug\DBTest.exe.config
+D:\Projects\Solution\Solution\WebApp\DBTest\bin\Debug\DBTest.exe
+D:\Projects\Solution\Solution\WebApp\DBTest\bin\Debug\DBTest.pdb
+D:\Projects\Solution\Solution\WebApp\DBTest\bin\Debug\WebApp.dll
+D:\Projects\Solution\Solution\WebApp\DBTest\bin\Debug\WebApp.pdb
+D:\Projects\Solution\Solution\WebApp\DBTest\obj\Debug\DBTest.csprojResolveAssemblyReference.cache
+D:\Projects\Solution\Solution\WebApp\DBTest\obj\Debug\DBTest.exe
+D:\Projects\Solution\Solution\WebApp\DBTest\obj\Debug\DBTest.pdb
+D:\Projects\Solution\Solution\WebApp\DBTest\bin\Debug\ProjectUtils.dll
+D:\Projects\Solution\Solution\WebApp\DBTest\bin\Debug\ProjectUtils.pdb
